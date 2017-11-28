@@ -1,0 +1,15 @@
+D:\C#\projet\Urbex Project\UrbexProject\Data\bin\Debug\Data.dll
+D:\C#\projet\Urbex Project\UrbexProject\Data\bin\Debug\Data.pdb
+D:\C#\projet\Urbex Project\UrbexProject\Data\bin\Debug\ClassLibrary.dll
+D:\C#\projet\Urbex Project\UrbexProject\Data\bin\Debug\ClassLibrary.pdb
+D:\C#\projet\Urbex Project\UrbexProject\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
+D:\C#\projet\Urbex Project\UrbexProject\Data\obj\Debug\Data.dll
+D:\C#\projet\Urbex Project\UrbexProject\Data\obj\Debug\Data.pdb
+D:\cours\Annee_1\C#\saveProject\Urbex Project_SanInstallateur\UrbexProject\Data\bin\Debug\Data.dll
+D:\cours\Annee_1\C#\saveProject\Urbex Project_SanInstallateur\UrbexProject\Data\bin\Debug\Data.pdb
+D:\cours\Annee_1\C#\saveProject\Urbex Project_SanInstallateur\UrbexProject\Data\bin\Debug\ClassLibrary.dll
+D:\cours\Annee_1\C#\saveProject\Urbex Project_SanInstallateur\UrbexProject\Data\bin\Debug\ClassLibrary.pdb
+D:\cours\Annee_1\C#\saveProject\Urbex Project_SanInstallateur\UrbexProject\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
+D:\cours\Annee_1\C#\saveProject\Urbex Project_SanInstallateur\UrbexProject\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+D:\cours\Annee_1\C#\saveProject\Urbex Project_SanInstallateur\UrbexProject\Data\obj\Debug\Data.dll
+D:\cours\Annee_1\C#\saveProject\Urbex Project_SanInstallateur\UrbexProject\Data\obj\Debug\Data.pdb
